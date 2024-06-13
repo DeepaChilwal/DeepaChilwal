@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DeepaChilwal
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning new things related to my work
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...chilwaldeepasingh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 DeepaChilwal/DeepaChilwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
